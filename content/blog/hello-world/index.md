@@ -1,21 +1,14 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello World! 
+date: "2019-02-16T12:40:03"
 ---
 
-This is my first post on my new fake blog! How exciting!
+My first blog post!
 
-I'm sure I'll write a lot more interesting things in the future.
-
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
-
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+Not much to put here, really liking working with Gatsby. Been working on some
+retrospectives of the projects I've got on my resume, hoping to start this blog
+as sort of an extension of my resume actually, so if anyone is interested in 
+my projects they can come read about them here. Beyond that I'm hoping to do 
+some write-ups of the technologies and techniques involved in those projects, 
+like fourier analysis for the visualizer and the dope algorithms used in (or 
+just related to) the YFS file system.

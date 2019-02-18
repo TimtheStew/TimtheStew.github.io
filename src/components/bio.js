@@ -31,12 +31,9 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in San
-              Francisco building useful things.
+              A blog by <strong>{author}</strong>, a CS grad with a love
+              of systems, and yearning for learning.
               {` `}
-              <a href={`https://twitter.com/${social.twitter}`}>
-                You should follow him on Twitter
-              </a>
             </p>
           </div>
         )
