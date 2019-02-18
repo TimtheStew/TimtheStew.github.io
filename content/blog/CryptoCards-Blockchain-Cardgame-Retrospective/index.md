@@ -15,7 +15,8 @@ along the way.
 </p>
 
 ### Initial Goals and Adjustments
-When we first set out, we had some high hopes for this website, that
+When we first set out, learning from previous projects where we were over-ambitious,
+we had some moderately lofty but not too extreme goals for this website, that
 from a high level looked like this:
 - Users can buy and sell cards on the site via auctions on the blockchain
 - Users can combine cards to create new ones
@@ -23,7 +24,7 @@ from a high level looked like this:
 - Game logic on the blockchain to prevent cheating
 
 I'm happy to say we did eventually provide most of that functionality, though
-at the expense of some visual polish. The only goal we had to drop entirely 
+at the expense of much visual polish. The only goal we had to drop entirely 
 was putting game logic on the blockchain, as research quickly showed it would 
 require people to spend an unreasonable amount of ether on playing a game, so 
 we marked it as unfeasible. 
@@ -48,7 +49,7 @@ While we were required to create all that documentation and stories and post the
 the management system the class was using, we sometimes just phoned it in - not 
 really going into the amount of detail we should have. 
 
-This became apparent 
+That this was a major problem became apparent 
 later on in the development process, when we encountered parts of the system
 that didn't work together as they should have even when implemented correctly,
 or that left functionality gaps, forcing us to shove what we needed where it 
@@ -59,8 +60,10 @@ just pick up a task, implement the required small bit of functionality, run
 the tests, rinse, and repeat until you logged your hours for the day. In contrast,
 when things were ambiguous, even a task that should have been run of the mill could
 require you to talk to 2 or 3 different team members about how something should be
-done. And once a couple such pieces of functionality have been added, if not properly
-documented, they can snowball into complicating even well planned parts of the system.
+done, and if you weren't very familiar with the rest of the components it was to interact with, 
+you may leave your implementation lacking some functionality that wasn't specified. 
+Once a couple such modules have been added, if not properly
+documented, they could snowball into complicating even well planned parts of the system.
 
 While we all participated in the design and, to an extent, the implementation of the 
 entire project, early on we split into three two-person teams, one focused on the 
@@ -73,7 +76,7 @@ get a feel for the tools involved ([phaser](https://phaser.io/) and
 patterns and best practices used in the design of such programs.
 
 This meant when I initially designed
-the structure of the games objects and interactions, not only were my chunks not as 
+the structure of the games objects and interactions, not only were my modules not as 
 efficient and self-contained as they easily could have been - I also alienated myself
 from a good portion of the resources available to me. No one online can help me 
 understand why my janky resource system sometimes doesn't update when it should, when
