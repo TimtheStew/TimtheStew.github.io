@@ -7,7 +7,7 @@ implement a distributed filesystem called YFS, based on an [MIT 6.824 project](h
 Below I'll outline the good, bad, and ugly about the project, as well as some 
 lessons I learned.
 
-![YFS-Diagram](./yfs.png)
+![YFS-Diagram](./yfs.jpg)
 
 ### The Lay of the Land
 The first big mistake I made during this project involved my outlook on C++.
