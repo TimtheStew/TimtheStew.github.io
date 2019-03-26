@@ -3,7 +3,7 @@ title: CryptoCards - A Blockchain Cardgame Retrospective
 date: "2019-02-17T17:39:03"
 ---
 
-As one of the final projects for my degree at Temple University, me and 5 friends
+As one of the final projects for my degree at Temple University, 5 friends and I 
 endeavored to build a card game whose collectible "cards" were really tokens
 on an Ethereum blockchain. Check out the source 
 [here.](https://github.com/nickk752/CryptoCards) In this post I'll try to 
