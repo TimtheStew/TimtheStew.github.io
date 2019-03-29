@@ -32,7 +32,7 @@ function Bio() {
             />
             <p>
               A blog by <strong>{author}</strong>, a CS grad with a love
-              of systems and a yearning for learning.
+              of web development and a yearning for learning.
               {` `}
             </p>
           </div>

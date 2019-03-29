@@ -1,6 +1,6 @@
 ---
 title: YFS - A Distributed Filesystem Retrospective - WIP
-date: "2019-03-25T17:44:03"
+date: "2019-03-18T17:44:03"
 ---
 As a nearly semester-long project for a distributed systems class, we were to
 implement a distributed filesystem called YFS, based on an [MIT 6.824 project](https://pdos.csail.mit.edu/archive/6.824-2012/labs/)
