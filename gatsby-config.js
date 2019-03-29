@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `System Preferences`,
+    title: `Engineering Schmengineering`,
     author: `Tim Stewart`,
     description: `A personal blog with project retrospectives and breakdowns of the tech involved.`,
     siteUrl: `timthestew.github.io`,
