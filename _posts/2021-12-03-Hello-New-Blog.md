@@ -21,5 +21,5 @@ down the frequency visualizer operating description into what will be
 the first real post of the 'reboot'. Whether or not this reboot will be 
 any less short lived than the original remains to be seen. 
 
-Happy to be blogging again,
+Happy to be blogging again,    
 Tim
