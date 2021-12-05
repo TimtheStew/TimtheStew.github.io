@@ -1,14 +1,14 @@
 # Site
-title:              Noom
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Engineering Schmengineering
+bio:                "Tim Stew's Technical Blog"
+description:        "A blog by Tim Stewart, an engineer with a love of web development and a yearning for learning."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/blog_logo_square.png'
+background:         'assets/img/longwoodcorridorflowers_blurred.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://taylantatli.github.io/Moon
+url:                https://timthestew.github.io/
 
 # Jekyll
 permalink:          /:title/
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+# disqus_shortname:   engischmengi
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,20 +37,20 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
-twitter:            username
-facebook:           username
-github-url:         username
+email:              timthestew@gmail.com
+#twitter:           username
+#facebook:          username
+github-url:         TimtheStew
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           timthestew
 #xing:              username
-instagram:          username
+instagram:          timthestew
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
