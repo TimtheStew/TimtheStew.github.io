@@ -13,7 +13,7 @@ feature: https://i.imgur.com/hJDZGw4.jpg
 </figure>
 
 My name is Tim Stewart, and I'm a software engineer from Pennsylvania. I got 
-my BS in Computer Science from Temple University in Philadelphia in 2019. Currently
+my BS in Computer Science from Temple University in Philadelphia in 2018. Currently
 employed for Magnus Health / Veracross. 
 
 
